@@ -118,7 +118,7 @@
 * [[박세영] DI, Hilt 뽀개기]
 * [[박세영] Retrofit 도입기]
 * [[박세영] 360도 Spin Image Touble Shooting]
-* [[김유빈] 커스텀 다이얼로그 구현]
+* [[김유빈] 커스텀 다이얼로그 구현](https://gogumac.github.io/android/softeer-custom-dialog/)
 <br>
 
 
