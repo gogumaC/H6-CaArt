@@ -114,11 +114,12 @@
 * [[엄석훈] 타입스크립트 제네릭이란?]
 
 #### 🛸 [AOS]
+* [[김유빈] 커스텀 다이얼로그 구현](https://gogumac.github.io/android/softeer-custom-dialog/)
 * [[박세영] Android의 Data Binding: DataBindingUtil vs Binding.inflate]
 * [[박세영] DI, Hilt 뽀개기]
 * [[박세영] Retrofit 도입기]
 * [[박세영] 360도 Spin Image Touble Shooting]
-* [[김유빈] 커스텀 다이얼로그 구현](https://gogumac.github.io/android/softeer-custom-dialog/)
+
 <br>
 
 
